@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import Vimeo from '@u-wave/react-vimeo';
+import Work from '../pages/Work';
+import { Button, Header } from 'semantic-ui-react';
 
 class Home extends Component {
     state = {}

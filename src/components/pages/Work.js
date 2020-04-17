@@ -1,11 +1,12 @@
 import React from 'react';
+import { Container } from 'semantic-ui-react';
 import aves from '../../images/aves-cropped.png';
 import ogden from '../../images/ogden_cropped.png';
 import kass from '../../images/myway.png';
 import asheville from '../../images/Asheville&Beyond.png';
 import rcusaMockup from '../../images/rcusa_mockup.png';
 import homeValue from '../../images/homevalue-mockup.png';
-import Asheville from './projects/Asheville';
+// import Asheville from './projects/Asheville';
 
 
 
