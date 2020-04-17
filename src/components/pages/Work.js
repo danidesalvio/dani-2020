@@ -12,10 +12,10 @@ import homeValue from '../../images/homevalue-mockup.png';
 
 const Work = () => (
   <>
-    {/* <div class="image-header work">
+    <div class="image-header work">
         <h1>Design & Develop</h1>
         <div class="img-overlay"></div>
-    </div> */}
+    </div>
 
     <Container>
 
