@@ -25,7 +25,7 @@ const CaseStudies = () => (
           
           <div className='hover-state'>
             <div className='project-info'>
-              <h2>Design - Figma</h2>
+              <h2>Agent Navigation</h2>
               <a href='/agent_nav' className='btn-light'>View</a>
             </div>
           </div>
@@ -36,7 +36,7 @@ const CaseStudies = () => (
           
           <div className='hover-state'>
             <div className='project-info'>
-              <h2>Design & Develop</h2>
+              <h2>New Website Templates</h2>
               <a href='/template_design' className='btn-light'>View</a>
             </div>
           </div>
@@ -47,7 +47,7 @@ const CaseStudies = () => (
           
           <div className='hover-state'>
             <div className='project-info'>
-              <h2>Develop</h2>
+              <h2>Custom Client Websites</h2>
               <a href='/client_design' className='btn-light'>View</a>
             </div>
           </div>
