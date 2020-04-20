@@ -7,6 +7,8 @@ import About from './components/pages/About';
 import Work from './components/pages/Work';
 import Footer from './components/shared/Footer';
 import AgentNav from './components/pages/projects/AgentNav';
+import NewTemplates from './components/pages/projects/NewTemplates';
+import ClientWork from './components/pages/projects/ClientWork';
 
 
 const App = () => (
@@ -17,6 +19,8 @@ const App = () => (
         <Route eaxct path="/about" component={About} />
         <Route exact path="/work" component={Work}/>
         <Route exact path="/agent_nav" component={AgentNav} />
+        <Route exact path="/template_design" component={NewTemplates} />
+        <Route exact path="/client_design" component={ClientWork} />
       </Switch>
 
       <Footer />

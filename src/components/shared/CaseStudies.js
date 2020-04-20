@@ -26,7 +26,7 @@ const CaseStudies = () => (
           <div className='hover-state'>
             <div className='project-info'>
               <h2>Design - Figma</h2>
-              <button className='btn-light'>View</button>
+              <a href='/agent_nav' className='btn-light'>View</a>
             </div>
           </div>
         </div>
@@ -37,7 +37,7 @@ const CaseStudies = () => (
           <div className='hover-state'>
             <div className='project-info'>
               <h2>Design & Develop</h2>
-              <button className='btn-light'>View</button>
+              <a href='/template_design' className='btn-light'>View</a>
             </div>
           </div>
         </div>
@@ -48,7 +48,7 @@ const CaseStudies = () => (
           <div className='hover-state'>
             <div className='project-info'>
               <h2>Develop</h2>
-              <button className='btn-light'>View</button>
+              <a href='/client_design' className='btn-light'>View</a>
             </div>
           </div>
         </div>
