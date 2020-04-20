@@ -54,9 +54,6 @@ const CaseStudies = () => (
         </div>
 
       </div>
-
-      <p class="disclaimer">* Websites shown above are editable by clients and may not reflect original design or site build.</p>
-    
    
   </>
   
