@@ -10,7 +10,8 @@ const Nav = () => (
             <a href='/'>Home</a>
             <a href='/about'>About</a>
             <a href='/work'>Work</a>
-            <a href='/blog'>Blog</a>
+            <a href='/agent_nav'>Project 1</a>
+            {/* <a href='/blog'>Blog</a> */}
         </div>
         
         {/* Slide in Menu */}
