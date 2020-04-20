@@ -10,7 +10,7 @@ const Footer = () => (
         <div class="contact">
           <h3>Get In Touch</h3>
           <p><a href="mailto:danidesalvio@gmail.com">danidesalvio@gmail.com</a></p>
-          <p><a href="tel:3152711975">+1 (315) 271-1975</a></p>
+          <p><a href="mailto:danidesalvio@gmail.com">Schedule a Call</a></p>
         </div>
 
         <div class="dd-logo">
